@@ -1,1 +1,1 @@
-Multi Armed Bandit Algorithm
+# Multi Armed Bandit Algorithm
