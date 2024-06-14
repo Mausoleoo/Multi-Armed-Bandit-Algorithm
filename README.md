@@ -27,7 +27,7 @@ NonStationary -> Non stationary rewards ['drift','reverting']
 
 Permute_Prob -> Probability for getting an abrupt change for each step
 
-Step -> Step size for epsilon fixed size
+Step -> Step size for epsilon fixed size (None = Decreasing Step)
 
 ### Execution Instructions
 
