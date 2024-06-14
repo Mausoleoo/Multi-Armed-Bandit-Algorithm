@@ -1,6 +1,6 @@
 # Multi Armed Bandit Algorithm
 
-The objective of this assignment is to experiment with simple bandit learning algorithms by implementing them from scratch and comparing their performance based on two criteria: (1) the average accumulated reward and (2) the proportion of time the optimal action, defined as the action with the highest expected reward, is taken.
+The objective of this assignment is to experiment with simple bandit learning algorithms by implementing them from scratch and comparing their performance based on two criteria: the average accumulated reward and the proportion of time the optimal action, defined as the action with the highest expected reward, is taken.
 
 ### Requirements
 
