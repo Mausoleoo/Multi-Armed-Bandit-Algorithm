@@ -26,3 +26,7 @@ NonStationary -> Non stationary rewards ['drift','reverting']
 Permute_Prob -> Probability for getting an abrupt change for each step
 
 Step -> Step size for epsilon fixed size
+
+### Execution Instructions
+
+The code in this repository was written in a Jupyter Notebook. Each part of the project is separated with its respective code. To execute the code, simply run each cell in sequence, one after the other. The entire code execution will take approximately 10 minutes to complete. 
